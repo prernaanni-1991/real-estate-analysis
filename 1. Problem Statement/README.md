@@ -16,6 +16,3 @@ A Power Query Editor will open showing the content.
 
 In this project, we'll look for rental property availability throughout several Bengaluru neighbourhoods. Additionally, we'll try to locate the rent for each project as well as any facilities offered. We'll make an effort to forecast the widest possible choice of rental homes.
 
-## Screenshots
-
-![image](https://user-images.githubusercontent.com/111227156/202702009-0f4505c9-4dba-467f-ad98-13f53fe3e204.png)
